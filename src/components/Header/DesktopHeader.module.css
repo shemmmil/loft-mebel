@@ -1,0 +1,31 @@
+.header {
+  padding: 1em;
+  background-color: #313131;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+}
+
+.navigation {
+  list-style: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+.navigation-item {
+  margin-right: 2em;
+}
+
+.contact {
+  display: flex;
+}
+
+.contactNumber {
+  margin: 0 2em 0 0.6em;
+}
+
+.delivery {
+  margin: 0;
+  margin-left: 0.6em;
+}
